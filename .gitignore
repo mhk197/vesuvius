@@ -1,5 +1,5 @@
-# Ignore data (for now) bc too large
-data/
+# Ignore tif surface volumes (for now) bc too large
+surface_volume/
 
 # DS_Store
 .DS_Store
