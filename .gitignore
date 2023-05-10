@@ -1,11 +1,6 @@
 # Ignore tif surface volumes (for now) bc too large
 surface_volume/
 
-# Ignore train 2 and 3 npy files (too large)
-2/
-3/
-
-
 
 # DS_Store
 .DS_Store
